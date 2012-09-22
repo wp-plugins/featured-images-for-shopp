@@ -23,7 +23,7 @@ can be used from any theme template, not unlike regular post thumbs.
 Shopp to afford further control.
 
 Written by [Barry Hughes](http://freshlybakedwebsites.net/)
-[(Freshly Baked Websites)](http://freshlybakedwebsites.net/ "Website design and development from Vancouver Island, BC, Canada"]
+[(Freshly Baked Websites)](http://freshlybakedwebsites.net/ "Website design and development from Vancouver Island, BC, Canada")
 with support from Chris Jumonville of [Digital Sky Design](http://www.digitalskydesign.com/).
 
 == Installation ==
