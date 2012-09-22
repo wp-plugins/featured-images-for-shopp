@@ -21,9 +21,9 @@ on the category pages and maintaining a completely different set of gallery imag
 can be used from any theme template, not unlike regular post thumbs.
 * Get creative! You are not limited in how you use these new images.
 
-Written by [Barry Hughes](http://freshlybakedwebsites.net/) of [Freshly Baked Websites](http://freshlybakedwebsites.net/
-"Website design and development from Vancouver Island, BC, Canada"] with support from Chris Jumonville of
-[Digital Sky Design](http://www.digitalskydesign.com/).
+Written by [Barry Hughes](http://freshlybakedwebsites.net/)
+[(Freshly Baked Websites)](http://freshlybakedwebsites.net/ "Website design and development from Vancouver Island, BC, Canada"]
+with support from Chris Jumonville of [Digital Sky Design](http://www.digitalskydesign.com/).
 
 == Installation ==
 
