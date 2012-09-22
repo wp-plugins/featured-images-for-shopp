@@ -19,11 +19,10 @@ on the category pages and maintaining a completely different set of gallery imag
 
 * Post thumbnails are regular images uploaded using WordPress's media tools - just as you would expect! - they
 can be used from any theme template, not unlike regular post thumbs.
-*You are not limited in how you use these new images - a range of filters are built in to Featured Images for
+* You are not limited in how you use these new images - a range of filters are built in to Featured Images for
 Shopp to afford further control.
 
-Written by [Barry Hughes](http://freshlybakedwebsites.net/)
-[(Freshly Baked Websites)](http://freshlybakedwebsites.net/ "Website design and development from Vancouver Island, BC, Canada")
+Written by [Barry Hughes (Freshly Baked Websites](http://freshlybakedwebsites.net/ "Website design and development from Vancouver Island, BC, Canada")
 with support from Chris Jumonville of [Digital Sky Design](http://www.digitalskydesign.com/).
 
 == Installation ==
